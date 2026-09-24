@@ -1,0 +1,5 @@
+cantante 
+profesor
+pintor
+yutuber
+editor

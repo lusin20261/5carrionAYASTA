@@ -1,0 +1,5 @@
+lavar
+planchar
+barrer
+ordenar
+linpiar
